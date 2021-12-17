@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # PYTHON-2
 function python_2_script()
 {
